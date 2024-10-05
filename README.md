@@ -69,6 +69,4 @@ To predict heart attack risk using machine learning models, improving data-drive
 ## Result
 Successfully developed and deployed a robust heart attack prediction model with optimized precision and recall metrics. The project not only improved the model’s performance but also provided significant healthcare insights through interactive data visualizations. This comprehensive approach increased the effectiveness of predictive analytics for healthcare decision-making.
 
----
 
-This format is clear, professional, and directly showcases your contributions and skills, which is critical when recruiters are assessing your portfolio for data analyst or business analyst roles.
